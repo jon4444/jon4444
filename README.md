@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm John Kola-Fabiyi</h1>
 
-<h3 align="center">A passionate frontend developer from United Kingdom</h3>
+<h3 align="center">A passionate graduate software developer from United Kingdom</h3>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/IAf4rGXKes4-vP0v-oHhqIQwvNCTlJRltN6QP2zHfQo/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2YxL2U3/LzM0L2YxZTczNGY5/Y2FkZTg2ZmU3Mzdh/OWFhNDA0YWQ1Njc3/LmdpZg.gif">
 
